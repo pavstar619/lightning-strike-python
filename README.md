@@ -1,7 +1,7 @@
 # lightning-strike-python
 
 Instructions:
-1. Input your FULL video file name, eg. myvideo.mp4 not only myvideo
+1. Input your <b>FULL</b> video file name, eg. myvideo.mp4 not only myvideo
 
 2. Keep the program in a <b>SEPARATE</b> folder as it will generate alot of jpg files during processing.
 
